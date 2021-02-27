@@ -1,0 +1,9 @@
+.trends__item {
+  width: 24.8%;
+  /* min-height: calc((100vw - 4px)/2*247/382); */
+  min-height: 250px;
+}
+
+.trends__item:nth-child(n+5) {
+  margin-top: 3px;
+}

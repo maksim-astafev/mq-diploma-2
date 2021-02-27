@@ -1,0 +1,11 @@
+.trends__item {
+  width: 100%;
+}
+
+.trends__item {
+  margin-bottom: 3px;
+}
+
+.trends__item:last-child {
+  margin-bottom: 0;
+}

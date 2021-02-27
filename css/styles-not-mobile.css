@@ -1,0 +1,28 @@
+.header__top {
+  justify-content: space-between;
+  align-items: center;
+}
+
+.trends__list {
+  display: flex;
+  justify-content: space-between;
+}
+
+.central {
+  display: flex;
+  justify-content: space-between;
+}
+
+.block-title::after {
+  margin-top: 8px;
+}
+
+.goods__list {
+  display: flex;
+  justify-content: space-between;
+}
+
+.popup {
+  width: 390px;
+}
+
