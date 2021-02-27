@@ -13,7 +13,7 @@
   justify-content: space-between;
 }
 
-.block-title::after {
+.any__block-title::after {
   margin-top: 8px;
 }
 

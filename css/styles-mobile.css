@@ -34,11 +34,11 @@
   width: 85%;
 }
 
-.block-title_page {
+.any__block-title_page {
   margin-bottom: 25px;
 }
 
-.block-title::after {
+.any__block-title::after {
   margin-top: 6px;
 }
 
@@ -92,7 +92,7 @@
   margin-bottom: 0;
 }
 
-.block-title_sidebar {
+.any__block-title_sidebar {
   margin-bottom: 30px;
   font-size: 1rem;
 }

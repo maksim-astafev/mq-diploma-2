@@ -65,7 +65,7 @@
   line-height: 1.6667;
 }
 
-.block-title_page {
+.any__block-title_page {
   margin-bottom: 30px;
   font-size: 1.25rem;
 }
@@ -144,7 +144,7 @@
   width: 270px;
 }
 
-.block-title_sidebar {
+.any__block-title_sidebar {
   margin-bottom: 40px;
   font-size: 0.875rem;
 }

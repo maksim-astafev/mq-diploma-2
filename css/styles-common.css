@@ -82,7 +82,7 @@ body {
   background-image: url("../images/trend4.jpg");
 }
 
-.block-title_page {
+.any__block-title_page {
   color: #0f0d0e;
 }
 
@@ -232,13 +232,13 @@ body {
   margin-bottom: 0;
 }
 
-.block-title {
+.any__block-title {
   text-align: center;
   text-transform: uppercase;
   font-weight: 700;
 }
 
-.block-title::after {
+.any__block-title::after {
   content: "";
   display: block;
   width: 66px;
@@ -311,7 +311,7 @@ body {
 	clip: rect(1px, 1px, 1px, 1px);
 }
 
-.form-field {
+.any__form-field {
   width: 100%;
   box-sizing: border-box;
   height: 48px;
@@ -327,7 +327,7 @@ body {
   -moz-appearance: none;
 }
 
-.form-field:focus {
+.any__form-field:focus {
   outline: 1px solid #b59f5b;
   outline-offset: -1px;
 }
@@ -337,7 +337,7 @@ body {
   /* width: calc(100% - 48px); */     /* так я выяснил, что 100% уже не от родителя, а от того, что осталось после кнопки*/
 /*}*/
 
-.button {
+.any__button {
   height: 48px;
   border: 0;
   background-color: #b59f5b;
@@ -356,7 +356,7 @@ body {
   background-size: 20px 20px;
 }
 
-.button:hover {
+.any__button:hover {
   background-color: #323232;
 }
 
